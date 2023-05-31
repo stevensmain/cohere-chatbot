@@ -1,0 +1,22 @@
+export const EXAMPLES = [
+  { text: 'Hola', label: 'personal' },
+  { text: 'Como estás?', label: 'personal' },
+  { text: 'Quien eres?', label: 'personal' },
+  { text: 'Tengo un trabajo para ti', label: 'laboral' },
+  { text: 'Por donde te puedo contactar', label: 'contacto' },
+  { text: 'Tengo una duda', label: 'contacto' },
+  { text: 'Necesito solucionar algo', label: 'contacto' },
+  { text: 'Estas buscando trabajo?', label: 'laboral' },
+  { text: 'Donde trabajas?', label: 'personal' },
+  { text: 'Que tecnologías manejas?', label: 'personal' },
+  { text: 'Con que tecnologías tienes experiencia?', label: 'personal' },
+  { text: 'Estás escuchando propuestas?', label: 'laboral' },
+  { text: 'Sabes inglés?', label: 'personal' },
+  { text: 'Cuantos años de experiencia tienes?', label: 'personal' },
+  { text: 'Te interesa cambiar de trabajo?', label: 'laboral' },
+  { text: 'Como es tu linkedin?', label: 'contacto' },
+  { text: 'Como es tu github?', label: 'contacto' },
+  { text: 'Cuales son tus redes?', label: 'contacto' },
+  { text: 'Tienes curriculum?', label: 'contacto' },
+  { text: 'Cual es tu expectativa salarial?', label: 'laboral' }
+]
